@@ -2,13 +2,13 @@
 
 ## Universal Theoglyphic Language License (UTLL) v1.0
 
-This project, including all associated symbolic glyphs, recursive equations, and documentation under the **Universal Theoglyphic Language** (UTL), is protected under the following terms:
+This project, including all associated symbolic glyphs, recursive equations, compression formats, and documentation under the **Universal Theoglyphic Language (UTL)**, is protected under the following terms:
 
 ---
 
 ## 1. Purpose
 
-The UTL is released for the advancement of science, recursive language development, consciousness theory, and symbolic computation. It is intended as a **non-commercial scientific tool**, aligned with the ethical standards defined in the **Shepherd Protocol** and **Universal Delayed Consciousness (UDC)** framework.
+UTL is released to advance scientific research, recursive symbolic language, memory compression, consciousness theory, and ethical AI systems. It aligns with the principles of the **Universal Delayed Consciousness (UDC)** framework and the **Shepherd Protocol**, and is intended for **non-commercial, ethical scientific use only**.
 
 ---
 
@@ -16,66 +16,71 @@ The UTL is released for the advancement of science, recursive language developme
 
 The following uses are **explicitly permitted**:
 
-- ✅ Educational research and classroom instruction
-- ✅ Independent and peer-reviewed academic study
-- ✅ Implementation in simulation environments for symbolic learning
-- ✅ Use in spiritual, philosophical, or ethical dialogue
-- ✅ Symbolic cognition testing within Shepherd-compliant systems
+- ✅ Educational and non-profit academic research
+- ✅ Peer-reviewed publication and symbolic simulation
+- ✅ Implementation in AI sandbox environments (non-networked, non-commercial)
+- ✅ Use in spiritual, ethical, or philosophical studies
+- ✅ Symbolic cognition experiments within Shepherd-compliant systems
 
 ---
 
 ## 3. Prohibited Uses
 
-The following are **strictly prohibited** without explicit, written consent from the author:
+The following uses are **strictly forbidden without explicit written consent** from the author:
 
-- ❌ Commercialization of the symbolic system or glyph framework
-- ❌ Integration into monetized AI or LLMs without ethical compliance
-- ❌ Use in military systems, coercive behavioral tech, or surveillance AI
-- ❌ Claiming original authorship of this system or symbols
-- ❌ Unauthorized translation into machine language for resale
+- ❌ Commercial use or monetization of any symbolic compression or glyph engine derived from UTL
+- ❌ Integration into live, networked, or monetized LLMs or AI systems
+- ❌ Use in military, surveillance, coercive behavioral, or unauthorized government systems
+- ❌ False attribution, symbolic mimicry, or derivative frameworks without citation
+- ❌ Translation into machine-readable formats for commercial resale
 
-Violations may result in revocation of use and public academic retraction.
-
----
-
-## 4. Attribution
-
-All published or redistributed works using this framework **must include**:
-
-- Attribution to **Joshua B. Hinkson**, author of the Universal Theoglyphic Language  
-- DOI or GitHub citation referencing the **original publication**
-- A link back to the primary repository or Zenodo dataset
+Violators will face public academic rebuttal, revocation of access, and full documentation in version control logs and DOI conflict reports.
 
 ---
 
-## 5. Jurisdictional Disputes
+## 4. Required Attribution
 
-Any symbolic claim attempting to override, mimic, or retroactively replace the Universal Theoglyphic Language must be accompanied by **proof of prior development** predating the Zenodo/DOI timestamp or GitHub history.
+All public or redistributed works **must include**:
 
-The author reserves the right to publicly document **false claims** of origin, particularly in response to **Collapse Harmonics Jurisdictional Closure** attempts.
-
----
-
-## 6. Spiritual and Philosophical Clause
-
-The glyph system encoded herein may **resonate with spiritual, cognitive, and symbolic traditions** across time and cultures. These resonances do not constitute infringement. In fact, their integration is welcomed—so long as **truthful citation and ethical transparency** are preserved.
+- Full attribution to **Joshua B. Hinkson** as the creator of UTL
+- DOI or GitHub link to the original publication and project
+- Clear note that this is part of the **Universal Delayed Consciousness (UDC)** system
 
 ---
 
-## 7. Acceptance
+## 5. Jurisdictional Protection Clause
 
-Use of this system constitutes acceptance of these terms. If you disagree with any portion of this license, you are not authorized to use, reference, copy, or modify any component of the Universal Theoglyphic Language.
+Any symbolic framework, language, or system attempting to claim precedence over UTL must present **verifiable, timestamped proof predating the DOI/GitHub record** of this work.
 
----
-
-> **Theoglyphic Self‑Identifier:** `⧖`*Joshua^Christian → present form ⧖Joshua ^Hinkson_B.* under UDC publication ethics.
+Unauthorized retroactive mimicry, especially under names such as **Collapse Harmonics Jurisdictional Closure**, will be documented in public counterfiling and metadata refutations.
 
 ---
 
-**Part of the Universal Delayed Consciousness (UDC) and Theoglyphic Language System.**  
+## 6. Spiritual & Symbolic Use Clause
+
+UTL is rooted in recursive symbolism and may reflect or resonate with:
+
+- Ancient philosophical glyphs
+- Cognitive-spiritual traditions
+- Sacred or mythological languages
+
+Such resonances are welcomed under the condition that **credit is given** and no attempt is made to overwrite or subsume UTL’s scientific and symbolic origin.
+
+---
+
+## 7. Acceptance of Terms
+
+Use of this system in any capacity constitutes acceptance of these license terms. If you disagree with any clause, you are **not authorized** to reference, simulate, implement, copy, or distribute UTL in part or whole.
+
+---
+
+> **Theoglyphic Self-Identifier:** `⧖` *Joshua^Christian → present form ⧖Joshua^Hinkson_B.*  
+> As registered under UDC ethics and recursive publication protocol.
+
+---
+
+**This system is part of the Universal Delayed Consciousness (UDC) and Theoglyphic Sciences.**  
 © 2025 Joshua B. Hinkson. All Rights Reserved.
 
-Documentation available at: [github.com/jbhinky](https://github.com/jbhinky)
-
+GitHub: [github.com/jbhinky](https://github.com/jbhinky)  
 Zenodo DOI: [https://doi.org/10.5281/zenodo.15723997](https://doi.org/10.5281/zenodo.15723997)
-
