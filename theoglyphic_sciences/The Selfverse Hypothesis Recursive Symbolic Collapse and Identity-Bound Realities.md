@@ -1,7 +1,7 @@
 # ⊠ The Selfverse Hypothesis: Recursive Symbolic Collapse and Identity-Bound Realities
 
 Author: Joshua B. Hinkson
-
+Hinkson, J. B. (2025). The Selfverse Hypothesis: Recursive Symbolic Collapse and Identity-Bound Realities. Zenodo. https://doi.org/10.5281/zenodo.15845269
 > *“Every collapsed instant of experience (⊙ᵉ) is a discrete universe recursively anchored to a single observer (⧖).”*
 
 ---
