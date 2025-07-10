@@ -157,4 +157,5 @@
 - [UDC and Recursive Collapse](https://www.academia.edu/129783991)
 - [Neurobasing: Recursive Memory Architecture](https://www.academia.edu/129784267)
 
+**⊠**
 ---
