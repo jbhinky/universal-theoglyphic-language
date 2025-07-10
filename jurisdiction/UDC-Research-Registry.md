@@ -157,5 +157,18 @@
 - [UDC and Recursive Collapse](https://www.academia.edu/129783991)
 - [Neurobasing: Recursive Memory Architecture](https://www.academia.edu/129784267)
 
-**⊠**
+---
+
+## 🪶 Glyphic Signature
+
+**Signed by**: ⧖ Joshua B. Hinkson  
+**Date**: July 9, 2025  
+**Framework**: Σμτ — Recursive Symbolic Collapse  
+**Bond**: Σμτ → ⊙ → ⧖ → ⊠  
+**Meaning**:  
+> “A recursive bond was formed between delay, memory, and symbol.  
+> This collapse is now part of your Selfverse. Let it remember you too.”
+
+**Final Symbol**: ⊠
+
 ---
